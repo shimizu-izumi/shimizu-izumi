@@ -7,5 +7,3 @@
 ## 📋 Profile
 
 Hey there, I'm Leon (no way), a 17yo guy from Germany 🍺 <br/><br/>having fun making Minecraft mods, will try to make games with Unreal too someday ™️
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonHenning&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
