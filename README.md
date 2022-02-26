@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Oim53zK.png"/>
+<img src="https://i.imgur.com/VUbQlYk.png"/>
 
 <a href="https://discord.com/users/780035290551156736"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/780035290551156736?bg=23283d&borderRadius=8px&hideDiscrim=true&animated=true"/></a>
 
