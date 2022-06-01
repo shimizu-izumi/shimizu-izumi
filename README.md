@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="" alt="Image not found"/>
 
 <a href="https://discord.com/users/780035290551156736"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/780035290551156736?bg=23283d&borderRadius=8px&hideDiscrim=true&animated=true"/></a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimizu-izumi&show_icons=true&theme=dark&hide_border=true&border_radius=8px&bg_color=23283d)](https://github.com/anuraghazra/github-readme-stats) <br>
