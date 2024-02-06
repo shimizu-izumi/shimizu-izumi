@@ -16,17 +16,4 @@
 </div>
 
 ### Skills
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=cpp,unreal,ts,nextjs,tailwind,idea,blender&perline=3)](https://skillicons.dev)
