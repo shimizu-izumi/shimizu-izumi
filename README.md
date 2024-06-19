@@ -5,4 +5,4 @@
 <img align="right" height="200" src="https://lanyard-profile-readme.vercel.app/api/780035290551156736?theme=dark&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=8px&showDisplayName=true"  />
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,unreal,ts,nextjs,tailwind,idea,blender&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,unreal,ts,nextjs,tailwind,idea&perline=3)](https://skillicons.dev)
